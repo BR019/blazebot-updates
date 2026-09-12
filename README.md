@@ -1,0 +1,2 @@
+# blazebot-updates
+Atualizações automaticas.
